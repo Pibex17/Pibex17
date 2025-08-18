@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Nilo Aragundi👋
 
-**Actualmente soy estudiante de Ing en Software.**
+### **Actualmente soy estudiante de Ing en Software.**
 
 + #### Leguajes de programacion que utilizo
 + ##### Python
