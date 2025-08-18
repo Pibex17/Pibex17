@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Nilo Aragundi👋
 
-#Actualmente soy estudiante de Ing en Software.
+### Actualmente soy estudiante de Ing en Software.
 
 <!--
 **Pibex17/Pibex17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
