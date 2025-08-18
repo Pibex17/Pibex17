@@ -2,16 +2,16 @@
 
 **Actualmente soy estudiante de Ing en Software.**
 
-#### Leguajes de programacion que utilizo
-##### Python
-##### HTML
-##### c++
-##### Javascript
++ #### Leguajes de programacion que utilizo
++ ##### Python
++ ##### HTML
++ ##### c++
++ ##### Javascript
 
 **Tecnologias que utilizo**
-#### Git
-#### NodeJs
-#### Apache
++ #### Git
++ #### NodeJs
++ #### Apache
 
 <!--
 **Pibex17/Pibex17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
