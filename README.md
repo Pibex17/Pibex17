@@ -2,13 +2,13 @@
 
 ### **Actualmente soy estudiante de Ing en Software.**
 
-+ #### Leguajes de programacion que utilizo
+### **Leguajes de programacion que utilizo**
 + ##### Python
 + ##### HTML
 + ##### c++
 + ##### Javascript
 
-**Tecnologias que utilizo**
+### **Tecnologias que utilizo**
 + #### Git
 + #### NodeJs
 + #### Apache
