@@ -7,7 +7,7 @@
 ### **Leguajes de programacion que utilizo**
 + ##### Python
 + ##### HTML
-+ ##### c++
++ ##### CSS
 + ##### Javascript
 
 
